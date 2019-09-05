@@ -18,3 +18,5 @@ module.exports = {
     },
   },
 };
+
+// use dotenv to change process.env.NODE_ENV to read development
