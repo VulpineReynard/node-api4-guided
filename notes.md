@@ -15,3 +15,5 @@ make changes > commit and push > gets deployed
 - click "Deploy branch"
 - go to the "Overview" tab
 - once it is deployed click on "open app" in the right top
+
+add production to knexfile
